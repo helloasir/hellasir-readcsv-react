@@ -78,6 +78,7 @@ const App = () => {
 				idx) => <div key={idx}>{col}</div>)}
 			</div>
 		</div>
+		
 	);
 };
 

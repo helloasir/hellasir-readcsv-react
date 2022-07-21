@@ -1,15 +1,13 @@
 {
   "files": {
     "main.css": "/hellasir-readcsv-react/static/css/main.4de0fa12.css",
-    "main.js": "/hellasir-readcsv-react/static/js/main.5d98f95b.js",
-    "static/js/787.0e31295a.chunk.js": "/hellasir-readcsv-react/static/js/787.0e31295a.chunk.js",
+    "main.js": "/hellasir-readcsv-react/static/js/main.9232c5a2.js",
     "index.html": "/hellasir-readcsv-react/index.html",
     "main.4de0fa12.css.map": "/hellasir-readcsv-react/static/css/main.4de0fa12.css.map",
-    "main.5d98f95b.js.map": "/hellasir-readcsv-react/static/js/main.5d98f95b.js.map",
-    "787.0e31295a.chunk.js.map": "/hellasir-readcsv-react/static/js/787.0e31295a.chunk.js.map"
+    "main.9232c5a2.js.map": "/hellasir-readcsv-react/static/js/main.9232c5a2.js.map"
   },
   "entrypoints": [
     "static/css/main.4de0fa12.css",
-    "static/js/main.5d98f95b.js"
+    "static/js/main.9232c5a2.js"
   ]
 }
